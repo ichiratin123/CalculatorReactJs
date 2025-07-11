@@ -6,7 +6,7 @@ body{
 
 .wrapper{
   position: relative;
-  background-image: url('./assets/wpp.jpg');
+  background-image: url('/wpp.jpg');
   height: 100vh;
   overflow: hidden;
   background-position: center;
